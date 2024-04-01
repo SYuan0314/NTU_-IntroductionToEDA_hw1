@@ -6,7 +6,7 @@ input char which represent node
 output all possible topology order
 
 ## Example
-![image](https://github.com/SYuan0314/NTU_IntroductionToEDA_hw1/assets/82447912/f823f4e4-f67b-4f6a-a51f-462e0b65e232)
+![image](https://github.com/SYuan0314/NTU_IntroductionToEDA_hw1/assets/82447912/f823f4e4-f67b-4f6a-a51f-462e0b65e232)\
 input part:
 ```
 Enter the number of vertices in the graph: 11
